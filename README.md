@@ -1,4 +1,4 @@
-# Trabalho-reconstru-o-3D-da-bolsa-sendo-chutada
+# Trabalho de biomec - reconstrução 3D
 #Juliana Sayuri Sakamoto - 11858411
 
 Neste trabalho para a reconstrução 3D da bola sendo chutada, foi disponibilizada pelo professor todos os arquivos necessários. Primeiramente foi feito o clone do repositório do professor através do gitHub Desktop.
